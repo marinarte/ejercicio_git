@@ -1,1 +1,1 @@
-# primer_repositorio
+# primer_ejercicio
